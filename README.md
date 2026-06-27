@@ -1,4 +1,4 @@
-# Deterministic IRQ
+# Deterministic `IRQ`
 
 Este script configura la afinidad de las IRQ MSI de un dispositivo PCI y ajusta la prioridad de los hilos de interrupción asociados.
 
